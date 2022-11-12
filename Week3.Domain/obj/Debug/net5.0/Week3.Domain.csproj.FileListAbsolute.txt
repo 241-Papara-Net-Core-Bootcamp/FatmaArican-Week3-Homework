@@ -1,0 +1,12 @@
+C:\Users\resis\Desktop\Week3\Week3.Domain\bin\Debug\net5.0\Week3.Domain.deps.json
+C:\Users\resis\Desktop\Week3\Week3.Domain\bin\Debug\net5.0\Week3.Domain.dll
+C:\Users\resis\Desktop\Week3\Week3.Domain\bin\Debug\net5.0\Week3.Domain.pdb
+C:\Users\resis\Desktop\Week3\Week3.Domain\obj\Debug\net5.0\Week3.Domain.csproj.AssemblyReference.cache
+C:\Users\resis\Desktop\Week3\Week3.Domain\obj\Debug\net5.0\Week3.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resis\Desktop\Week3\Week3.Domain\obj\Debug\net5.0\Week3.Domain.AssemblyInfoInputs.cache
+C:\Users\resis\Desktop\Week3\Week3.Domain\obj\Debug\net5.0\Week3.Domain.AssemblyInfo.cs
+C:\Users\resis\Desktop\Week3\Week3.Domain\obj\Debug\net5.0\Week3.Domain.csproj.CoreCompileInputs.cache
+C:\Users\resis\Desktop\Week3\Week3.Domain\obj\Debug\net5.0\Week3.Domain.dll
+C:\Users\resis\Desktop\Week3\Week3.Domain\obj\Debug\net5.0\refint\Week3.Domain.dll
+C:\Users\resis\Desktop\Week3\Week3.Domain\obj\Debug\net5.0\Week3.Domain.pdb
+C:\Users\resis\Desktop\Week3\Week3.Domain\obj\Debug\net5.0\ref\Week3.Domain.dll

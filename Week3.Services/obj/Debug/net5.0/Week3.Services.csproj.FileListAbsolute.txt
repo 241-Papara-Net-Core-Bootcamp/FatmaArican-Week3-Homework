@@ -1,0 +1,17 @@
+C:\Users\resis\Desktop\Week3\Week3.Services\bin\Debug\net5.0\Week3.Services.deps.json
+C:\Users\resis\Desktop\Week3\Week3.Services\bin\Debug\net5.0\Week3.Services.dll
+C:\Users\resis\Desktop\Week3\Week3.Services\bin\Debug\net5.0\Week3.Services.pdb
+C:\Users\resis\Desktop\Week3\Week3.Services\bin\Debug\net5.0\Week3.Data.dll
+C:\Users\resis\Desktop\Week3\Week3.Services\bin\Debug\net5.0\Week3.Domain.dll
+C:\Users\resis\Desktop\Week3\Week3.Services\bin\Debug\net5.0\Week3.Data.pdb
+C:\Users\resis\Desktop\Week3\Week3.Services\bin\Debug\net5.0\Week3.Domain.pdb
+C:\Users\resis\Desktop\Week3\Week3.Services\obj\Debug\net5.0\Week3.Services.csproj.AssemblyReference.cache
+C:\Users\resis\Desktop\Week3\Week3.Services\obj\Debug\net5.0\Week3.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resis\Desktop\Week3\Week3.Services\obj\Debug\net5.0\Week3.Services.AssemblyInfoInputs.cache
+C:\Users\resis\Desktop\Week3\Week3.Services\obj\Debug\net5.0\Week3.Services.AssemblyInfo.cs
+C:\Users\resis\Desktop\Week3\Week3.Services\obj\Debug\net5.0\Week3.Services.csproj.CoreCompileInputs.cache
+C:\Users\resis\Desktop\Week3\Week3.Services\obj\Debug\net5.0\Week3.Services.csproj.CopyComplete
+C:\Users\resis\Desktop\Week3\Week3.Services\obj\Debug\net5.0\Week3.Services.dll
+C:\Users\resis\Desktop\Week3\Week3.Services\obj\Debug\net5.0\refint\Week3.Services.dll
+C:\Users\resis\Desktop\Week3\Week3.Services\obj\Debug\net5.0\Week3.Services.pdb
+C:\Users\resis\Desktop\Week3\Week3.Services\obj\Debug\net5.0\ref\Week3.Services.dll
